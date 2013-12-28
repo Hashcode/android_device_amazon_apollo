@@ -1,5 +1,5 @@
 # Inherit from hdx
-$(call inherit-product, device/amazon/apollo/hdx-common.mk)
+$(call inherit-product, device/amazon/hdx-common/hdx-common.mk)
 
 # Boot animation
 TARGET_SCREEN_HEIGHT := 1600
